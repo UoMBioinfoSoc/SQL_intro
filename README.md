@@ -1,8 +1,8 @@
 # Code for Life - Introduction to SQL
 
-Mark's slides for this week's _Code for Life_ workshop are now [available as a PDF from our website](http://uombio.info/docs/sql-intro.pdf)
+Mark's slides for this week's _Code for Life_ workshop are now [available as a PDF from our website](http://uombio.info/docs/sql-intro.pdf).
 
-SQL code within the presentation is provided separately in [db_basics.sql](https://github.com/UoMBioinfoSoc/sql_intro/blob/master/db_basics.md)
+SQL code within the presentation is provided separately in [`db_basics.sql`](https://github.com/UoMBioinfoSoc/sql_intro/blob/master/db_basics.sql)
 
 [Facebook event](https://www.facebook.com/events/158390151182869/) | Schedule: [uombio.info/schedule](http://uombio.info/schedule)
 
